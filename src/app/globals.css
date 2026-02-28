@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+@source inline("from-blue-400 from-green-400 from-gray-400 to-blue-700 to-green-700 to-gray-700");
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
